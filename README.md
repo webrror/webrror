@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" width="300"/>
+  <br/>
+  <br/>
+  <img src="https://hits.dwyl.com/webrror/webrror.svg?style=flat&show=unique" alt="webrror's profile views" />
 </div>
 
 <!--
