@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-  <p> ⚠️ WORK IN PROGRESS ⚠️</p>
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" width="300"/>
   <br/>
   <br/>
