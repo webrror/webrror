@@ -10,7 +10,11 @@
   <br/> -->
 </div>
 
+<div align="center">
 
+  [![](https://visitcount.itsvg.in/api?id=webrror&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
 
 <!--
 **webrror/webrror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
